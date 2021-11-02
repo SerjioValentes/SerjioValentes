@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**SerjioValentes/SerjioValentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack Web developer from Kazan, Russia. I have a passion for creating responsive websites using the latest technologies available
 
-Here are some ideas to get you started:
+Languages / Libraries :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- React
+- Html / Css
+- little bit a C
+
+Other technology what i'm use:
+- Webpack
+- Babel
+- Sass
+- Firebase / FireStore
+- Git
+- Ant design
+- MaterialUI
+
+
+ 🔭 I’m currently working on recipe list. Each user will be able to create a recipe sheet and share it
+ 
+ 🌱 I’m currently learning Typescript, Redux, Sql DB
