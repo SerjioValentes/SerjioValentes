@@ -18,7 +18,8 @@ Other technology what i'm use:
 - Ant design
 - MaterialUI
 
-
  🔭 I’m currently working on recipe list. Each user will be able to create a recipe sheet and share it
  
- 🌱 I’m currently learning Typescript, Redux, Sql DB
+Welcome to my portfolio:
+------------
+https://dev-portfolio-v00.web.app
