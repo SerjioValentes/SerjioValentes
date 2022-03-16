@@ -6,6 +6,7 @@ Languages / Libraries :
 
 - JavaScript
 - React
+- Redux
 - Html / Css
 - little bit a C
 
@@ -18,7 +19,7 @@ Other technology what i'm use:
 - Ant design
 - MaterialUI
 
- 🔭 I’m currently working on recipe list. Each user will be able to create a recipe sheet and share it
+ 🔭 I’m currently working on recipe list. Each user will be able to create a recipe sheet and share it. Connected with firebase cloud platform.
  
 Welcome to my portfolio:
 ------------
