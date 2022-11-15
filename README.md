@@ -5,8 +5,8 @@ I'm a fullstack Web developer from Kazan, Russia. I have a passion for creating 
 Languages / Libraries :
 
 - JavaScript
-- React
-- Redux
+- React / Vue
+- Redux / Pinia
 - Html / Css
 - little bit a C
 
