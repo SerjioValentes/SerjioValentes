@@ -4,23 +4,19 @@ I'm a fullstack Web developer from Kazan, Russia. I have a passion for creating 
 
 Languages / Libraries :
 
-- JavaScript
-- React / Vue
-- Redux / Pinia
-- Html / Css
-- little bit a C
+- Node Js
+- React / Vue / Svelte
+- Redux / Pinia / Effector
+- Html / Css / Js
 
 Other technology what i'm use:
-- Webpack
-- Babel
-- Sass
-- Firebase / FireStore
-- Git
-- Ant design
-- MaterialUI
+- FireStore / Postgres Sql
+- Ant design / MaterialUI / Tailwind
 
- 🔭 I’m currently working on recipe list. Each user will be able to create a recipe sheet and share it. Connected with firebase cloud platform.
+ 🔭 I’m currently working on connection users (todo list, share some posts, etc) 
+Firestore - for mvp 
+Postgres - for prod
  
-Welcome to my portfolio:
+Portfolio 
 ------------
 https://fir-dev-portfolio.web.app
