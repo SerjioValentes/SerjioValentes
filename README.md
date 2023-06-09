@@ -17,6 +17,3 @@ Other technology what i'm use:
 Firestore - for mvp 
 Postgres - for prod
  
-Portfolio 
-------------
-https://fir-dev-portfolio.web.app
